@@ -9,3 +9,4 @@ Notes and usage details for golang-benchmarks.
 - add a note about the defaults
 - add a note about the defaults
 - clarify the setup steps
+- clarify the setup steps
