@@ -29,3 +29,4 @@ Notes and usage details for golang-benchmarks.
 - link the usage section
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
