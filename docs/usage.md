@@ -37,3 +37,4 @@ Notes and usage details for golang-benchmarks.
 - fix a small wording issue
 - link the usage section
 - clarify the setup steps
+- clarify the setup steps
