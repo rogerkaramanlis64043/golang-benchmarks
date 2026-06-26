@@ -46,3 +46,4 @@ Notes and usage details for golang-benchmarks.
 - add a note about the defaults
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
