@@ -11,3 +11,4 @@ coverage/
 tmp/
 .pytest_cache/
 *.tmp
+*.orig
